@@ -1,3 +1,3 @@
 # Explore_World Application
 
-BUilt using modern technologies: node.js,mongoDB,mongoose and friends
+Built using modern technologies:  Node.js, MongoDB, Express.js 
